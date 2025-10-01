@@ -3,7 +3,7 @@ import Fortnite from "./Fortnite.jpg"
 import Hallow_Knight from "./Hallow_Knight.jpg"
 import Formular1 from "./Formular1.jpg"
 import Forza_Horizon5 from "./Forza_Horizon5.jpg"
-import Minecraft from "./Minecraft.jpg"
+// import Minecraft from "./Minecraft.jpg"
 import Call_Of_Duty from "./Call_Of_Duty.jpg"
 import Assasin_Creed from "./Assasin_Creed.jpg"
 import Witcher_3 from "./Witcher_3.jpg"
@@ -19,7 +19,7 @@ export const ASSETS = {
   Hallow_Knight,
   Formular1,
   Forza_Horizon5,
-  Minecraft,
+  // Minecraft,
   Call_Of_Duty,
   Assasin_Creed,
   Witcher_3,
